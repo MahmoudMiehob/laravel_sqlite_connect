@@ -3,7 +3,7 @@
 
 ----
 
-*steps
+* steps
     * go to .env file and replace mysql to sqlite
 
 
