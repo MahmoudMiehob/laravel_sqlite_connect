@@ -9,6 +9,7 @@
     * comment all connect settings on mysql in .env file 
     * create database.sqlite file in database folder
     * write {{ php artisan migrate }} in terminal
+    * now you can use sqlite database
  
 
 
