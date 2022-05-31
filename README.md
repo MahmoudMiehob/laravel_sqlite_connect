@@ -10,6 +10,7 @@
     * create database.sqlite file in database folder
     * write {{ php artisan migrate }} in terminal
     * now you can use sqlite database
+    * if you want to use GUI App you should install sqlite database from https://sqlitebrowser.org/dl/
  
 
 
